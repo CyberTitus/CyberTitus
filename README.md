@@ -11,10 +11,10 @@
 <h3><b><i>☠ Works :</i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=CyberTitus&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/CyberTitus"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=CyberTitus&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/CyberTitus"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
