@@ -1,5 +1,5 @@
 <h2><b><i>Hi there, It's CyberTitus 👋</i></b></h2>
-<b><i>💻 I'm a Cyber Security Researcher & a Web Developer</i></b>
+<b><i>💻 I'm a  Student & Cyber Security Researcher</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇵🇰 <i>Pakistani</i></li>
@@ -9,12 +9,12 @@
 <li> 🤐 <i>Aim : Help People to be more secure on the internet</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
+<li> <a href="https://github.com/CyberTitus/XPhisher">XPhisher - Automated Phishing Tool with 10+ Phishing Templates.</a>
+<li> <a href="https://github.com/CyberTitus/XPhisher">GPhisher - Advanced Google Phishing Tool</a>
+<li> <a href="https://github.com/CyberTitus/TBlazerKill">TBlazerKill - Gets information about all connected devices on your internet.</a>
+<li> <a href="https://github.com/CyberTitus/WebPagesKiller">WebPagesKiller - Finds hidden pages on websites. </a>
+<li> <a href="https://github.com/CyberTitus/ShellDec">ShellDec - Basic tool for Decrypting Shells.</a>
+<li> <a href="https://github.com/CyberTitus/Wifiola">Wifiola - grab saved WiFi passwords from windows.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=dracula&no-frame=true&title=Followers,Commit,Repository,Issues"/></a>
