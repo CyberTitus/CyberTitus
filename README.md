@@ -24,7 +24,7 @@
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/CyberTitus"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://twitter.com/CyberTitus"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/facebook.png" /></a>
-<a href="https://cybertitus.github.io/"><img align="left" title="Website" alt="Website" width="30px" src="assets/messenger.png" /></a>
+<a href="https://twitter.com/CyberTitus"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
+<a href="https://cybertitus.github.io/"><img align="left" title="Website" alt="Website" width="30px" src="assets/website.png" /></a>
 <a href="https://www.instagram.com/CyberTitus"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 
