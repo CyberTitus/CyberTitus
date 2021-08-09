@@ -11,6 +11,7 @@
 <h3><b><i>☠ Works :</i></b></h3>
 <li> <a href="https://github.com/CyberTitus/XPhisher">XPhisher - Automated Phishing Tool with 10+ Phishing Templates.</a>
 <li> <a href="https://github.com/CyberTitus/GPhisher">GPhisher - Advanced Google Phishing Tool</a>
+<li> <a href="https://github.com/CyberTitus/GPhisher-v2">GPhisher v2 - Advanced Google Phishing Tool made with flask framework</a>
 <li> <a href="https://github.com/CyberTitus/TBlazerKill">TBlazerKill - Gets information about all connected devices on your internet.</a>
 <li> <a href="https://github.com/CyberTitus/WebPagesKiller">WebPagesKiller - Finds hidden pages on websites. </a>
 <li> <a href="https://github.com/CyberTitus/ShellDec">ShellDec - Basic tool for Decrypting Shells.</a>
