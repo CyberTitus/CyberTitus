@@ -1,14 +1,14 @@
 <h2><b><i>Hi there, It's CyberTitus 👋</i></b></h2>
 <b><i>💻 I'm a  Student & Cyber Security Researcher</i></b>
 
-<h3><b><i>🤠 About me :</i></b></h3>
+<h3><b><i>🙃 About me :</i></b></h3>
 <li> 🇵🇰 <i>Pakistani</i></li>
 <li> ☪︎ <i>Muslim</i></li>
 <li> 🍕 <i>Love Eating</i></li>
 <li> 🐍 <i>Trying to learn Web Development with Flask</i></li>
 <li> 🤐 <i>Aim : Help People to be more secure on the internet</i></li>
 
-<h3><b><i>☠ Works :</i></b></h3>
+<h3><b><i>🚧 Works :</i></b></h3>
 <li> <a href="https://github.com/CyberTitus/XPhisher">XPhisher - Automated Phishing Tool with 10+ Phishing Templates.</a>
 <li> <a href="https://github.com/CyberTitus/GPhisher">GPhisher - Advanced Google Phishing Tool</a>
 <li> <a href="https://github.com/CyberTitus/GPhisher-v2">GPhisher v2 - Advanced Google Phishing Tool made with flask framework</a>
