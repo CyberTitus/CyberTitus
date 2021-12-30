@@ -2,7 +2,6 @@
 <b><i>💻 I'm a  Student & Cyber Security Researcher</i></b>
 
 <h3><b><i>🙃 About me :</i></b></h3>
-<li> 🇵🇰 <i>Pakistani</i></li>
 <li> ☪︎ <i>Muslim</i></li>
 <li> 🍕 <i>Love Eating</i></li>
 <li> 🐍 <i>Trying to learn Web Development with Flask</i></li>
