@@ -1,4 +1,4 @@
-## Greetings, It's CyberTitus
+## Greetings, It's CyberTitus 👋
 ***I'm a cyber security student*** 💻
 
 **🛠️ Tools:**
