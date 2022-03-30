@@ -11,6 +11,6 @@
  - <a href="https://github.com/CyberTitus/Wifiola">Wifiola</a> - Grabs passwords of saved WiFi networks on Windows
 
 ### 🏆 *GitHub Statistics* :
- <a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=dracula&no-frame=true&title=Followers,Commit,Repository"/></a>
+ <a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=onedark&no-frame=true&title=Followers,Commit,Repository"/></a>
 
 *If there's an issue with my tools, kindly let me know.*
