@@ -1,5 +1,4 @@
-## Greetings 👋
-***I'm a cyber security student*** 💻
+***cyber security student*** 💻
 
 **🛠️ Tools:**
  - <a href="https://github.com/CyberTitus/XPhisher">XPhisher</a>  - Automated Phishing Tool with 10+ Phishing Templates.
@@ -9,6 +8,3 @@
  - <a href="https://github.com/CyberTitus/WebPagesKiller">WebPagesKiller</a> - Finds hidden pages on websites.
  - <a href="https://github.com/CyberTitus/ShellDec">ShellDec</a> - Basic Shell decrypting tool
  - <a href="https://github.com/CyberTitus/Wifiola">Wifiola</a> - Grabs passwords of saved WiFi networks on Windows
-
-### 🏆 *GitHub Statistics* :
- <a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=onedark&no-frame=true&title=Followers,Commit,Repository"/></a>
