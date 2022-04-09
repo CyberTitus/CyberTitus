@@ -1,4 +1,4 @@
-***cyber security student*** 💻
+***Cyber Security Student*** 💻
 
 **🛠️ Tools:**
  - <a href="https://github.com/CyberTitus/XPhisher">XPhisher</a>  - Automated Phishing Tool with 10+ Phishing Templates.
