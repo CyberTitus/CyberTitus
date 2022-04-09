@@ -1,4 +1,4 @@
-## Greetings, It's CyberTitus 👋
+## Greetings 👋
 ***I'm a cyber security student*** 💻
 
 **🛠️ Tools:**
@@ -12,5 +12,3 @@
 
 ### 🏆 *GitHub Statistics* :
  <a href="https://github.com/CyberTitus"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CyberTitus&theme=onedark&no-frame=true&title=Followers,Commit,Repository"/></a>
-
-*If there's an issue with my tools, kindly let me know.*
