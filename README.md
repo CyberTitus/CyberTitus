@@ -27,7 +27,7 @@
  
  | Github Stats | Top Languages |
 | --- | --- |
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cybertitus&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true) | ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybertitus&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| <a href="https://cybertitus.github.io"><img src="https://github-readme-stats.vercel.app/api?username=cybertitus&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true"></a> | <a href="https://cybertitus.github.io"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertitus&show_icons=true&title_color=5eff00&icon_color=2ae300&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"></a> |
  
  </div>
 </details>
@@ -36,6 +36,6 @@
  
  *ᴘʟᴇᴀsᴇ ɪɴғᴏʀᴍ ᴍᴇ ɪғ ᴛʜᴇʀᴇ ɪs ᴀɴ ɪssᴜᴇ ᴡɪᴛʜ ᴀɴʏ ᴏғ ᴍʏ ᴛᴏᴏʟs.*
  
-<img src="https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&url=https%3A%2F%2Fcybertitus.github.io" alt="website">
+<a href="https://cybertitus.github.io"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=flat-square&up_color=green&url=https%3A%2F%2Fcybertitus.github.io" alt="website"></a>
 
 </div>
