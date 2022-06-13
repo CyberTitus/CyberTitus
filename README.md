@@ -3,7 +3,7 @@
  # 𝘏𝘦𝘭𝘭𝘰, 𝘐𝘵'𝘴 <𝘊𝘺𝘣𝘦𝘳𝘛𝘪𝘵𝘶𝘴/>!
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=2A8329&center=true&height=25&lines=Student;Web+Developer)](https://github.com/CyberTitus?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=2A8329&center=true&height=25&lines=Student;Web+Developer;Cyber+Security+Researcher)](https://github.com/CyberTitus?tab=repositories)
  
 ***studying*** 🌳💻
  
