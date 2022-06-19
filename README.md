@@ -4,7 +4,7 @@
  
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=2A8329&center=true&height=25&lines=Student;Web+Developer;Cyber+Security+Researcher)](https://github.com/CyberTitus?tab=repositories)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=2A8329&center=true&height=35&lines=Student;Web+Developer;Cyber+Security+Researcher)](https://github.com/CyberTitus?tab=repositories)
  
 
 ***studying*** 🌳💻
